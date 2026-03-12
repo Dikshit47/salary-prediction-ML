@@ -91,7 +91,7 @@ Correlation Heatmap
 
 (Add screenshot here)
 
-"Heatmap" (images/heatmap.png)
+![Heatmap](images/heatmap.png)
 
 ---
 
