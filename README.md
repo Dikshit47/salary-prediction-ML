@@ -72,17 +72,17 @@ Different visualizations were created to understand the dataset.
 Age Distribution
 
 
-![Age Distribution] (images/age_histogram.png)
+![Age Distribution](images/age_histogram.png)
 
 Degree Distribution
 
 
-![Degree Distribution] (images/degree_distribution.png)
+![Degree Distribution](images/degree_distribution.png)
 
 Gender Distribution
 
 
-![Gender Distribution] (images/gender_distribution.png)
+![Gender Distribution](images/gender_distribution.png)
 
 Correlation Heatmap
 
