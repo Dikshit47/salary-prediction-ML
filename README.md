@@ -166,7 +166,7 @@ Salary-Prediction-ML
 
 1. Clone the repository
 
-git clone https://github.comDikshit47/Salary-Prediction-ML.git
+git clone https://github.com/Dikshit47/salary-prediction-ML
 
 2. Open the notebook
 
